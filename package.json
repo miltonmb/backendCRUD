@@ -27,7 +27,7 @@
     "pg": "^7.6.0",
     "pg-hstore": "^2.3.2",
     "react-material-ui-form-validator": "^2.0.2",
-    "sequelize": "^4.41.0",
+    "sequelize": "^5.15.1",
     "supervisor": "^0.12.0"
   }
 }
