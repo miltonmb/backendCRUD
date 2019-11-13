@@ -1,0 +1,33 @@
+{
+  "name": "BackendExpense",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "supervisor ./bin/www",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miltonmb/BackendExpense.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miltonmb/BackendExpense/issues"
+  },
+  "homepage": "https://github.com/miltonmb/BackendExpense#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.4",
+    "morgan": "^1.9.1",
+    "mysql2": "^1.6.4",
+    "pg": "^7.6.0",
+    "pg-hstore": "^2.3.2",
+    "react-material-ui-form-validator": "^2.0.2",
+    "sequelize": "^4.41.0",
+    "supervisor": "^0.12.0"
+  }
+}
